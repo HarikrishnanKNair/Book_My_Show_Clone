@@ -5,8 +5,8 @@ import DefaultHOC from "./HOC/Default.HOC";
 import MovieHOC from "./HOC/Movie.HOC";
 
 // Pages
-import HomePage from "./pages/Home.page";
-import Movie from "./pages/Movie.page";
+import HomePage from "./Pages/Home.page";
+import Movie from "./Pages/Movie.page";
 
 // Import css files
 import "slick-carousel/slick/slick.css";
